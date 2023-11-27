@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="managedIDPOC" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\SHANUKA\\Petronas\ Project\\manage\ Identity\\For\ Petronas\ Staging\ KeyVault\\TestShanukaManageIdentityDemo\\TestShanukaManageIdentityDemo\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
