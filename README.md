@@ -1,4 +1,3 @@
-# SecureAppKeyVault_using_ManageIdentity
 Build an ASP.NET Core application to secure sensitive information using Azure App Service, Managed Identity and Azure Key Vault
 
 This sample is an ASP.NET Core WebAPI application designed to access key vaul.
